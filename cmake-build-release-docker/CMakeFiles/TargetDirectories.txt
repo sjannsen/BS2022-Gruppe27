@@ -1,0 +1,3 @@
+/tmp/BSPrak22/cmake-build-release-docker/CMakeFiles/rebuild_cache.dir
+/tmp/BSPrak22/cmake-build-release-docker/CMakeFiles/BSPraktikum.dir
+/tmp/BSPrak22/cmake-build-release-docker/CMakeFiles/edit_cache.dir

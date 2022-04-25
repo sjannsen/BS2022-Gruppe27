@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/BSPraktikum.dir/main.c.o CMakeFiles/BSPraktikum.dir/keyValStore.c.o  -o BSPraktikum 

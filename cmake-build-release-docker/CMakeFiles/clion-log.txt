@@ -1,0 +1,5 @@
+/usr/bin/cmake /tmp/BSPrak22
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /tmp/BSPrak22/cmake-build-release-docker
+CMake File API: C:\Users\User\CLionProjects\BSPraktikum\cmake-build-release-docker: no reply dir found
