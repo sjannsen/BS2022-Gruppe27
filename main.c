@@ -171,13 +171,10 @@ int main(int argc , char *argv[])
                         int key_found = 0;
                         printf("[+]Printing the list before searching\n");
                         for (Node *curr = root; curr != NULL; curr = curr->next)
-                        {
                             printf("%s, %s\n", curr->key, curr->value);
-                        }
                         printf("[+]End of list\n");
 
-                        for (Node *curr = root; curr != NULL; curr = curr->next)
-                        {
+                        for (Node *curr = root; curr != NULL; curr = curr->next) {
                             printf("[+]Searching for key\n");
                             printf("Curr->key [%s] searched key [%s]\n", curr->key, key);
                             if (strcmp((curr->key), key) == 0) {
